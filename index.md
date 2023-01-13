@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: 'Kernel Hackers Blog '
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
+Tech Enthusiasm at its peak.
 
 
