@@ -6,14 +6,6 @@ layout: post
 Send and receive photos, documents and more between nearby Android devices and Windows PCs.
 ![2023-05-01-743184.png](https://dev7083.github.io/kernelhackers_blog/assets/2023-05-01-743184.png)
 
-
-<!--   ###Sharing
- ####Transfer with ease.
-
-With Nearby Share Beta, quickly transfer photos, videos, documents, audio files or entire folders between your Android device and Windows PC
-
-  ###Start sharing -->
-
 Step 1
 Get the app.
 Download the app, then install it to your Windows PC.
