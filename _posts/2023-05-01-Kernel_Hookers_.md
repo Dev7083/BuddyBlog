@@ -1,3 +1,9 @@
+---
+title: Kernel HOOkers Project Description
+layout: post
+
+---
+
 # Kernel HOOkers
 
 A Pyhton Tutorial Webpage.
