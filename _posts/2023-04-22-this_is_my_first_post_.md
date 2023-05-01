@@ -4,6 +4,8 @@ layout: post
 
 ---
 Send and receive photos, documents and more between nearby Android devices and Windows PCs.
+![2023-05-01-743184.png](https://dev7083.github.io/kernelhackers_blog/assets/2023-05-01-743184.png)
+
 
 Step 1
 Get the app.
