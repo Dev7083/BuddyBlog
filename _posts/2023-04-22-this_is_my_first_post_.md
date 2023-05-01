@@ -1,15 +1,15 @@
 ---
-title: '##NEARBY SHARE FOR WINDOWS'
+title: NEARBY SHARE FOR WINDOWS
 layout: post
 
 ---
 Send and receive photos, documents and more between nearby Android devices and Windows PCs.
 
-                                                          ###Sharing
+                                                             Sharing
                                                      Transfer with ease.
 With Nearby Share Beta, quickly transfer photos, videos, documents, audio files or entire folders between your Android device and Windows PC
 
-                                                        #Start sharing
+                                                        Start sharing
 
 Step 1
 Get the app.
