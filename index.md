@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: 'Kernel Hackers Blog '
+title: 'BuddySync Blog '
 
 ---
 Tech Enthusiasm at its peak.
