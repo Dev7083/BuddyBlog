@@ -2,11 +2,11 @@ title: BuddySync | Blog
 description: Tech Enthusiasm at its Peak.
 social_link: instagram
 social_username: rajputaashu25
-github_repo: kernelHOOkers
+github_repo: BuddyBlog
 github_username: Dev7083
 theme_color: black
 remote_theme: internet-de-france/swiss
-baseurl: /kernelhackers_blog
+baseurl: /BuddyBlog
 defaults:
   - scope:
       path: ''
